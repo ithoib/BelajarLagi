@@ -12,7 +12,7 @@ package belajarlagi;
  */
 public class Andika {
     public static void main(String[] args) {
-        System.out.println("Andika");
+        System.out.println("Andika Kangen Band");
     }
   
 }
