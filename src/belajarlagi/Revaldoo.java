@@ -9,5 +9,8 @@ package belajarlagi;
  * @author Good_Poeple
  */
 public class Revaldoo {
+    public static void main(String[] args) {
+        
+    }
     
 }
